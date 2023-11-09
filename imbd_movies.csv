@@ -1,0 +1,557 @@
+"","name","year","duration","rating","crew","gross","rank","genre","votes"
+"1","The Shawshank Redemption","(1994)","142 min","9.3","
+    Director:
+Frank Darabont
+                 | 
+    Stars:
+Tim Robbins, 
+Morgan Freeman, 
+Bob Gunton, 
+William Sadler
+    ","$28.34M","#1","
+Drama            ","2,816,712"
+"2","The Godfather","(1972)","175 min","9.2","
+    Director:
+Francis Ford Coppola
+                 | 
+    Stars:
+Marlon Brando, 
+Al Pacino, 
+James Caan, 
+Diane Keaton
+    ","$134.97M","#2","
+Crime, Drama            ","1,962,995"
+"3","The Dark Knight","(2008)","152 min","9.0","
+    Director:
+Christopher Nolan
+                 | 
+    Stars:
+Christian Bale, 
+Heath Ledger, 
+Aaron Eckhart, 
+Michael Caine
+    ","$534.86M","#3","
+Action, Crime, Drama            ","2,798,240"
+"4","Schindler's List","(1993)","195 min","9.0","
+    Director:
+Steven Spielberg
+                 | 
+    Stars:
+Liam Neeson, 
+Ralph Fiennes, 
+Ben Kingsley, 
+Caroline Goodall
+    ","$96.90M","#6","
+Biography, Drama, History            ","1,415,906"
+"5","The Lord of the Rings: The Return of the King","(2003)","201 min","9.0","
+    Director:
+Peter Jackson
+                 | 
+    Stars:
+Elijah Wood, 
+Viggo Mortensen, 
+Ian McKellen, 
+Orlando Bloom
+    ","$377.85M","#7","
+Action, Adventure, Drama            ","1,928,839"
+"6","The Godfather Part II","(1974)","202 min","9.0","
+    Director:
+Francis Ford Coppola
+                 | 
+    Stars:
+Al Pacino, 
+Robert De Niro, 
+Robert Duvall, 
+Diane Keaton
+    ","$57.30M","#4","
+Crime, Drama            ","1,332,721"
+"7","12 Angry Men","(1957)","96 min","9.0","
+    Director:
+Sidney Lumet
+                 | 
+    Stars:
+Henry Fonda, 
+Lee J. Cobb, 
+Martin Balsam, 
+John Fiedler
+    ","$4.36M","#5","
+Crime, Drama            ","839,248"
+"8","Pulp Fiction","(1994)","154 min","8.9","
+    Director:
+Quentin Tarantino
+                 | 
+    Stars:
+John Travolta, 
+Uma Thurman, 
+Samuel L. Jackson, 
+Bruce Willis
+    ","$107.93M","#8","
+Crime, Drama            ","2,160,045"
+"9","Fight Club","(1999)","139 min","8.8","
+    Director:
+David Fincher
+                 | 
+    Stars:
+Brad Pitt, 
+Edward Norton, 
+Meat Loaf, 
+Zach Grenier
+    ","$37.03M","#12","
+Drama            ","2,251,546"
+"10","The Lord of the Rings: The Fellowship of the Ring","(2001)","178 min","8.8","
+    Director:
+Peter Jackson
+                 | 
+    Stars:
+Elijah Wood, 
+Ian McKellen, 
+Orlando Bloom, 
+Sean Bean
+    ","$315.54M","#9","
+Action, Adventure, Drama            ","1,956,063"
+"11","Inception","(2010)","148 min","8.8","
+    Director:
+Christopher Nolan
+                 | 
+    Stars:
+Leonardo DiCaprio, 
+Joseph Gordon-Levitt, 
+Elliot Page, 
+Ken Watanabe
+    ","$292.58M","#14","
+Action, Adventure, Sci-Fi            ","2,483,613"
+"12","Forrest Gump","(1994)","142 min","8.8","
+    Director:
+Robert Zemeckis
+                 | 
+    Stars:
+Tom Hanks, 
+Robin Wright, 
+Gary Sinise, 
+Sally Field
+    ","$330.25M","#11","
+Drama, Romance            ","2,193,491"
+"13","The Lord of the Rings: The Two Towers","(2002)","179 min","8.8","
+    Director:
+Peter Jackson
+                 | 
+    Stars:
+Elijah Wood, 
+Ian McKellen, 
+Viggo Mortensen, 
+Orlando Bloom
+    ","$342.55M","#13","
+Action, Adventure, Drama            ","1,739,473"
+"14","Il buono, il brutto, il cattivo","(1966)","161 min","8.8","
+    Director:
+Sergio Leone
+                 | 
+    Stars:
+Clint Eastwood, 
+Eli Wallach, 
+Lee Van Cleef, 
+Aldo Giuffrè
+    ","$6.10M","#10","
+Adventure, Western            ","793,693"
+"15","Spider-Man: Across the Spider-Verse","(2023)","140 min","8.7","
+    Directors:
+Joaquim Dos Santos, 
+Kemp Powers, 
+Justin K. Thompson
+                 | 
+    Stars:
+Shameik Moore, 
+Hailee Steinfeld, 
+Brian Tyree Henry, 
+Luna Lauren Velez
+    ","#26","#26","
+Animation, Action, Adventure            ","289,855"
+"16","Interstellar","(2014)","169 min","8.7","
+    Director:
+Christopher Nolan
+                 | 
+    Stars:
+Matthew McConaughey, 
+Anne Hathaway, 
+Jessica Chastain, 
+Mackenzie Foy
+    ","$188.02M","#22","
+Adventure, Drama, Sci-Fi            ","2,008,602"
+"17","Goodfellas","(1990)","145 min","8.7","
+    Director:
+Martin Scorsese
+                 | 
+    Stars:
+Robert De Niro, 
+Ray Liotta, 
+Joe Pesci, 
+Lorraine Bracco
+    ","$46.84M","#17","
+Biography, Crime, Drama            ","1,223,487"
+"18","The Matrix","(1999)","136 min","8.7","
+    Directors:
+Lana Wachowski, 
+Lilly Wachowski
+                 | 
+    Stars:
+Keanu Reeves, 
+Laurence Fishburne, 
+Carrie-Anne Moss, 
+Hugo Weaving
+    ","$171.48M","#16","
+Action, Sci-Fi            ","2,002,526"
+"19","One Flew Over the Cuckoo's Nest","(1975)","133 min","8.7","
+    Director:
+Milos Forman
+                 | 
+    Stars:
+Jack Nicholson, 
+Louise Fletcher, 
+Michael Berryman, 
+Peter Brocco
+    ","$112.00M","#18","
+Drama            ","1,049,090"
+"20","Star Wars: Episode V - The Empire Strikes Back","(1980)","124 min","8.7","
+    Director:
+Irvin Kershner
+                 | 
+    Stars:
+Mark Hamill, 
+Harrison Ford, 
+Carrie Fisher, 
+Billy Dee Williams
+    ","$290.48M","#15","
+Action, Adventure, Fantasy            ","1,349,620"
+"21","The Silence of the Lambs","(1991)","118 min","8.6","
+    Director:
+Jonathan Demme
+                 | 
+    Stars:
+Jodie Foster, 
+Anthony Hopkins, 
+Scott Glenn, 
+Ted Levine
+    ","$130.74M","#23","
+Crime, Drama, Thriller            ","1,505,819"
+"22","Se7en","(1995)","127 min","8.6","
+    Director:
+David Fincher
+                 | 
+    Stars:
+Morgan Freeman, 
+Brad Pitt, 
+Kevin Spacey, 
+Andrew Kevin Walker
+    ","$100.13M","#19","
+Crime, Drama, Mystery            ","1,746,562"
+"23","Sen to Chihiro no kamikakushi","(2001)","125 min","8.6","
+    Director:
+Hayao Miyazaki
+                 | 
+    Stars:
+Daveigh Chase, 
+Suzanne Pleshette, 
+Miyu Irino, 
+Rumi Hiiragi
+    ","$10.06M","#32","
+Animation, Adventure, Family            ","817,084"
+"24","Saving Private Ryan","(1998)","169 min","8.6","
+    Director:
+Steven Spielberg
+                 | 
+    Stars:
+Tom Hanks, 
+Matt Damon, 
+Tom Sizemore, 
+Edward Burns
+    ","$216.54M","#24","
+Drama, War            ","1,459,160"
+"25","The Green Mile","(1999)","189 min","8.6","
+    Director:
+Frank Darabont
+                 | 
+    Stars:
+Tom Hanks, 
+Michael Clarke Duncan, 
+David Morse, 
+Bonnie Hunt
+    ","$136.80M","#28","
+Crime, Drama, Fantasy            ","1,369,993"
+"26","Star Wars","(1977)","121 min","8.6","
+    Director:
+George Lucas
+                 | 
+    Stars:
+Mark Hamill, 
+Harrison Ford, 
+Carrie Fisher, 
+Alec Guinness
+    ","$322.74M","#29","
+Action, Adventure, Fantasy            ","1,420,844"
+"27","Cidade de Deus","(2002)","130 min","8.6","
+    Directors:
+Fernando Meirelles, 
+Kátia Lund
+                 | 
+    Stars:
+Alexandre Rodrigues, 
+Leandro Firmino, 
+Matheus Nachtergaele, 
+Phellipe Haagensen
+    ","$7.56M","#25","
+Crime, Drama            ","785,507"
+"28","Terminator 2: Judgment Day","(1991)","137 min","8.6","
+    Director:
+James Cameron
+                 | 
+    Stars:
+Arnold Schwarzenegger, 
+Linda Hamilton, 
+Edward Furlong, 
+Robert Patrick
+    ","$204.84M","#30","
+Action, Sci-Fi            ","1,148,131"
+"29","La vita è bella","(1997)","116 min","8.6","
+    Director:
+Roberto Benigni
+                 | 
+    Stars:
+Roberto Benigni, 
+Nicoletta Braschi, 
+Giorgio Cantarini, 
+Giustino Durano
+    ","$57.60M","#27","
+Comedy, Drama, Romance            ","726,740"
+"30","It's a Wonderful Life","(1946)","130 min","8.6","
+    Director:
+Frank Capra
+                 | 
+    Stars:
+James Stewart, 
+Donna Reed, 
+Lionel Barrymore, 
+Thomas Mitchell
+    ","#20","#20","
+Drama, Family, Fantasy            ","481,670"
+"31","Shichinin no samurai","(1954)","207 min","8.6","
+    Director:
+Akira Kurosawa
+                 | 
+    Stars:
+Toshirô Mifune, 
+Takashi Shimura, 
+Keiko Tsushima, 
+Yukiko Shimazaki
+    ","$0.27M","#21","
+Action, Drama            ","359,838"
+"32","Seppuku","(1962)","133 min","8.6","
+    Director:
+Masaki Kobayashi
+                 | 
+    Stars:
+Tatsuya Nakadai, 
+Akira Ishihama, 
+Shima Iwashita, 
+Tetsurô Tanba
+    ","#45","#45","
+Action, Drama, Mystery            ","64,797"
+"33","Oppenheimer","(I) (2023)","180 min","8.5","
+    Director:
+Christopher Nolan
+                 | 
+    Stars:
+Cillian Murphy, 
+Emily Blunt, 
+Matt Damon, 
+Robert Downey Jr.
+    ","#47","#47","
+Biography, Drama, History            ","475,207"
+"34","Whiplash","(2014)","106 min","8.5","
+    Director:
+Damien Chazelle
+                 | 
+    Stars:
+Miles Teller, 
+J.K. Simmons, 
+Melissa Benoist, 
+Paul Reiser
+    ","$13.09M","#41","
+Drama, Music            ","942,305"
+"35","Alien","(1979)","117 min","8.5","
+    Director:
+Ridley Scott
+                 | 
+    Stars:
+Sigourney Weaver, 
+Tom Skerritt, 
+John Hurt, 
+Veronica Cartwright
+    ","$78.90M","#53","
+Horror, Sci-Fi            ","926,015"
+"36","Gladiator","(2000)","155 min","8.5","
+    Director:
+Ridley Scott
+                 | 
+    Stars:
+Russell Crowe, 
+Joaquin Phoenix, 
+Connie Nielsen, 
+Oliver Reed
+    ","$187.71M","#36","
+Action, Adventure, Drama            ","1,573,593"
+"37","Psycho","(1960)","109 min","8.5","
+    Director:
+Alfred Hitchcock
+                 | 
+    Stars:
+Anthony Perkins, 
+Janet Leigh, 
+Vera Miles, 
+John Gavin
+    ","$32.00M","#34","
+Horror, Mystery, Thriller            ","703,794"
+"38","Back to the Future","(1985)","116 min","8.5","
+    Director:
+Robert Zemeckis
+                 | 
+    Stars:
+Michael J. Fox, 
+Christopher Lloyd, 
+Lea Thompson, 
+Crispin Glover
+    ","$210.61M","#31","
+Adventure, Comedy, Sci-Fi            ","1,272,103"
+"39","The Departed","(2006)","151 min","8.5","
+    Director:
+Martin Scorsese
+                 | 
+    Stars:
+Leonardo DiCaprio, 
+Matt Damon, 
+Jack Nicholson, 
+Mark Wahlberg
+    ","$132.38M","#40","
+Crime, Drama, Thriller            ","1,388,794"
+"40","Gisaengchung","(2019)","132 min","8.5","
+    Director:
+Bong Joon Ho
+                 | 
+    Stars:
+Song Kang-ho, 
+Lee Sun-kyun, 
+Cho Yeo-jeong, 
+Choi Woo-sik
+    ","$53.37M","#35","
+Drama, Thriller            ","900,160"
+"41","The Prestige","(2006)","130 min","8.5","
+    Director:
+Christopher Nolan
+                 | 
+    Stars:
+Christian Bale, 
+Hugh Jackman, 
+Scarlett Johansson, 
+Michael Caine
+    ","$53.09M","#42","
+Drama, Mystery, Sci-Fi            ","1,405,323"
+"42","Léon","(1994)","110 min","8.5","
+    Director:
+Luc Besson
+                 | 
+    Stars:
+Jean Reno, 
+Gary Oldman, 
+Natalie Portman, 
+Danny Aiello
+    ","$19.50M","#38","
+Action, Crime, Drama            ","1,216,192"
+"43","Django Unchained","(2012)","165 min","8.5","
+    Director:
+Quentin Tarantino
+                 | 
+    Stars:
+Jamie Foxx, 
+Christoph Waltz, 
+Leonardo DiCaprio, 
+Kerry Washington
+    ","$162.81M","#56","
+Drama, Western            ","1,646,624"
+"44","American History X","(1998)","119 min","8.5","
+    Director:
+Tony Kaye
+                 | 
+    Stars:
+Edward Norton, 
+Edward Furlong, 
+Beverly D'Angelo, 
+Jennifer Lien
+    ","$6.72M","#39","
+Crime, Drama            ","1,164,312"
+"45","The Lion King","(1994)","88 min","8.5","
+    Directors:
+Roger Allers, 
+Rob Minkoff
+                 | 
+    Stars:
+Matthew Broderick, 
+Jeremy Irons, 
+James Earl Jones, 
+Whoopi Goldberg
+    ","$422.78M","#37","
+Animation, Adventure, Drama            ","1,113,068"
+"46","The Usual Suspects","(1995)","106 min","8.5","
+    Director:
+Bryan Singer
+                 | 
+    Stars:
+Kevin Spacey, 
+Gabriel Byrne, 
+Chazz Palminteri, 
+Stephen Baldwin
+    ","$23.34M","#43","
+Crime, Drama, Mystery            ","1,124,313"
+"47","The Pianist","(2002)","150 min","8.5","
+    Director:
+Roman Polanski
+                 | 
+    Stars:
+Adrien Brody, 
+Thomas Kretschmann, 
+Frank Finlay, 
+Emilia Fox
+    ","$32.57M","#33","
+Biography, Drama, Music            ","884,924"
+"48","The Intouchables","(2011)","112 min","8.5","
+    Directors:
+Olivier Nakache, 
+Éric Toledano
+                 | 
+    Stars:
+François Cluzet, 
+Omar Sy, 
+Anne Le Ny, 
+Audrey Fleurot
+    ","$13.18M","#48","
+Biography, Comedy, Drama            ","904,384"
+"49","Casablanca","(1942)","102 min","8.5","
+    Director:
+Michael Curtiz
+                 | 
+    Stars:
+Humphrey Bogart, 
+Ingrid Bergman, 
+Paul Henreid, 
+Claude Rains
+    ","$1.02M","#46","
+Drama, Romance, War            ","594,674"
+"50","Rear Window","(1954)","112 min","8.5","
+    Director:
+Alfred Hitchcock
+                 | 
+    Stars:
+James Stewart, 
+Grace Kelly, 
+Wendell Corey, 
+Thelma Ritter
+    ","$36.76M","#52","
+Mystery, Thriller            ","511,755"
